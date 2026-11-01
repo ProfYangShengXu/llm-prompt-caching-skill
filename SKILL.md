@@ -116,3 +116,5 @@ awk -v h=$h -v n=$n 'BEGIN{printf "%.1f%%\n", 100*h/n}'
 6. 以上都排除了，再怀疑服务端。
 
 排查脚本与成本算式见 `references/diagnostics.md`。
+
+<!-- OB-S:GjpAakHJvjLYzzCAGOTPMQ -->
